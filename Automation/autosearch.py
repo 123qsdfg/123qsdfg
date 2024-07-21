@@ -19,5 +19,3 @@ def run(playwright: Playwright) -> None:
 
 with sync_playwright() as playwright:
     run(playwright)
-print("시발들아tlqkf")
-print("이런 시발 개새기들아asdasdfasdfasjhggjhgjhghjfd")
